@@ -1,0 +1,5 @@
+node_modules
+bower_components
+dist<% if (pdf) { %>
+pdf<% } %>
+bespoke-theme-*
