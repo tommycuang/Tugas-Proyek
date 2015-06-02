@@ -1,9 +1,16 @@
 body {
-  background: #fff;
+  background: #32ffff;
   color: #3a4145;
-  font-family: 'Open Sans', sans-serif;
+  font-family: Courier, 'Open Sans', sans-serif;
   font-size: 1.7em;
   line-height: 1.6em;
+  font-weight: bold;
+}
+ul {
+  list-style: none;
+}
+li {
+  font-weight: bold;
 }
 h2 {
   color: #222;
