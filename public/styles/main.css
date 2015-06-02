@@ -12,6 +12,11 @@ ul {
 li {
   font-weight: bold;
 }
+h1 {
+  font-weight: bold;
+  font-size: 3em;
+  line-height: 2em;
+}
 h2 {
   color: #222;
   font-size: 2em;
